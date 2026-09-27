@@ -146,4 +146,5 @@ This project is fully containerized and runs end-to-end with a single `docker co
 
 **Tirthendu Chakraborty**
 Java Backend Developer
-[LinkedIn](https://linkedin.com/in/tirthendu-chakraborty) · [LeetCode](https://leetcode.com/u/tirthendu/)
+[LinkedIn](https://linkedin.com/in/tirthendu-chakraborty) · 
+[LeetCode](https://leetcode.com/u/tirthendu/)
